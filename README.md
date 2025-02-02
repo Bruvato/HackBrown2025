@@ -5,6 +5,7 @@
 # 🚀 Noblo Asteroids  
 ![ezgif-4e2a538fae267](https://github.com/user-attachments/assets/08f345fb-824a-4a34-b54a-68c725088ce5)
 
+[Video Demo](https://www.youtube.com/watch?v=YDvMAyzYZhM)
 
 ## 🎮 Inspiration  
 Classic arcade games like *Asteroids* and *Space Invaders* have stood the test of time. While modern gamers enjoy remasters with enhanced graphics, many new releases suffer from unnecessary bloat, required web services, and microtransactions that detract from the core gameplay experience. This project reimagines *Asteroids* in 3D while keeping the gameplay pure and engaging.  
