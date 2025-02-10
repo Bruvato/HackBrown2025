@@ -1,4 +1,7 @@
 # 🚀 Noblo Asteroids  
+### 3D Asteroids, arcade style game. Gamers today have a thirst for modern graphics, from raytracing to PBR materials to stylized shaders. We brought the classic Asteroids back!!! 
+
+
 ![ezgif-4e2a538fae267](https://github.com/user-attachments/assets/08f345fb-824a-4a34-b54a-68c725088ce5)
 
 [Video Demo](https://www.youtube.com/watch?v=YDvMAyzYZhM)
